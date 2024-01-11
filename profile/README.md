@@ -18,10 +18,15 @@ The solutions for the problem sets are included below. (Don't worry... you won't
 
 # Instructional Team Links 
 
-Also, don't worry about access to these hidden materials ahead of time. These links aren't going to be available for students because we're going to have you provision your work from somewhere else. 
+Don't worry about access to these hidden materials ahead of time. These links aren't going to be available for students because we're going to have you provision your work from somewhere else. 
 
-- Problem Set 1: [[link](https://github.com/info-241/problem-set-1-starter)]
-- Problem Set 2: [[link](https://github.com/info-241/problem-set-2-starter)]
-- Problem Set 3: [[link](https://github.com/info-241/problem-set-3-starter)]
-- Problem Set 4: [[link](https://github.com/info-241/problem-set-4-starter)]
-- Problem Set 5: [[link](https://github.com/info-241/problem-set-5-starter)]
+<details closed> 
+  <summary> Problem Set Starter Code </summary>
+
+>- Problem Set 1: [[link](https://github.com/info-241/problem-set-1-starter)]
+>- Problem Set 2: [[link](https://github.com/info-241/problem-set-2-starter)]
+>- Problem Set 3: [[link](https://github.com/info-241/problem-set-3-starter)]
+>- Problem Set 4: [[link](https://github.com/info-241/problem-set-4-starter)]
+>- Problem Set 5: [[link](https://github.com/info-241/problem-set-5-starter)]
+
+</details>
