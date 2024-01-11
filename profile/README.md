@@ -4,7 +4,7 @@ This is the GitHub Organization for the UC Berkeley School of Information course
 
 # Course Repository 
 
-The coures respository is at [INFO 241](https://github.com/info-241/info-241). 
+The course respository is at [INFO 241](https://github.com/info-241/info-241). 
 
 # Solution Sets 
 
