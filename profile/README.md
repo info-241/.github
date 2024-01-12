@@ -1,4 +1,4 @@
-# Howdy! 
+# Welcome! 
 
 This is the GitHub Organization for the UC Berkeley School of Information course, "INFO 241." In this organization you will find the course's repository, stored at `info-241`, and solution sets to problems. 
 
